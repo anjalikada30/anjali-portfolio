@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.359ad72b.chunk.css",
+    "main.js": "/static/js/main.bda76bb3.chunk.js",
+    "main.js.map": "/static/js/main.bda76bb3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd202d28.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd202d28.js.map",
+    "static/js/2.3ffd6de3.chunk.js": "/static/js/2.3ffd6de3.chunk.js",
+    "static/js/2.3ffd6de3.chunk.js.map": "/static/js/2.3ffd6de3.chunk.js.map",
+    "static/js/3.626c2de9.chunk.js": "/static/js/3.626c2de9.chunk.js",
+    "static/js/3.626c2de9.chunk.js.map": "/static/js/3.626c2de9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.359ad72b.chunk.css.map": "/static/css/main.359ad72b.chunk.css.map",
+    "static/js/2.3ffd6de3.chunk.js.LICENSE.txt": "/static/js/2.3ffd6de3.chunk.js.LICENSE.txt",
+    "static/media/about.dedbcc10.jpg": "/static/media/about.dedbcc10.jpg",
+    "static/media/avatar.35574028.jpg": "/static/media/avatar.35574028.jpg",
+    "static/media/App.scss": "/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/static/media/emailme.a60657eb.svg",
+    "static/media/location.5cd6776e.svg": "/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/static/media/phone.ef86e22a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd202d28.js",
+    "static/js/2.3ffd6de3.chunk.js",
+    "static/css/main.359ad72b.chunk.css",
+    "static/js/main.bda76bb3.chunk.js"
+  ]
+}

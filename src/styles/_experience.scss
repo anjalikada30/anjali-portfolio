@@ -1,0 +1,13 @@
+.ExpSection {
+    header {
+        h3 {
+            span {
+                float: right;
+                @media screen and (max-width: 1000px){
+                    display: block;
+                    float: none;
+                }
+            }
+        }
+    }
+}
